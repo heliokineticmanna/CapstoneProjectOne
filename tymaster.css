@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border: 30px solid #219EBC;
+    background-color: #023047;
+    color: white;
+    text-align: center;
+    height: 630px;
+    width: 1350px;
+}
